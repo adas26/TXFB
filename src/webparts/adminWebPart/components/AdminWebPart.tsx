@@ -177,7 +177,7 @@ export default class AdminWEbPart extends React.Component<IAdminWEbPartProps, IA
               cursor: "pointer"
             }}
           >
-            + Create New Form --
+            + Create New Form
           </a>
         </div>
 
