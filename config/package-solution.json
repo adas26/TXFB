@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "texas-new-solution-client-side-solution",
+    "id": "70ca46ee-f2c2-4e7a-9b05-0cc0dea64c5e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "texasNewSolution description"
+      },
+      "longDescription": {
+        "default": "texasNewSolution description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "texas-new-solution Feature",
+        "description": "The feature that activates elements of the texas-new-solution solution.",
+        "id": "29c5e016-3a78-4b90-b082-34aaee86861c",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/texas-new-solution.sppkg"
+  }
+}

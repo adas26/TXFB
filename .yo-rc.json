@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": false,
+    "nodeVersion": "16.20.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "texas-new-solution",
+    "libraryId": "70ca46ee-f2c2-4e7a-9b05-0cc0dea64c5e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "texasNewSolution",
+    "solutionShortDescription": "texasNewSolution description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
